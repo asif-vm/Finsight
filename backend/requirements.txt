@@ -1,0 +1,16 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.2.2+cpu
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-groq==0.1.6
+langchain-huggingface==0.0.3
+chromadb==0.4.24
+sentence-transformers==2.7.0
+fastapi==0.111.0
+uvicorn==0.30.0
+pinecone-client==3.2.2
+python-dotenv==1.0.1
+huggingface-hub==0.23.0
+pypdf==4.2.0
+python-multipart==0.0.9
+pydantic==2.7.1
